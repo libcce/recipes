@@ -1,3 +1,3 @@
-Chocolate Cake
+#Chocolate Cake
 
-8 ounces of baking chocolate
+*8 ounces of baking chocolate
